@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f0ff;
+    color: #333;
+  }
+  
+  #car, #carDisplay {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ff6600;
+    border-radius: 5px;
+    background-color: #ffffff;
+  }
+  
+  #car h2, #carDisplay h2 {
+    color: #66c4ff;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #details {
+    color: #333;
+  }
+  
+  
